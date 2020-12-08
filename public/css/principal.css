@@ -1,0 +1,78 @@
+/*Añadido al css de laravel*/
+body {
+
+	background-color: #6e0300 !important;
+}
+
+#nav-perfil{
+    background-color: #6e0300 !important;
+}
+
+#navbarDropdown{
+    color: #6e0300 !important;
+}
+
+.navbar-toggler-icon {
+  color: #6e0300 !important;
+  font-size:1em !important;
+}
+
+a:link.link{
+  color: #6e0300 !important;
+  font-weight: bold;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.btn_principal{
+	background-color: #6e0300 !important;
+	color:#e7e5df !important;
+}
+
+.btn_principal:hover{
+	background-color:green !important;
+}
+
+.btn_desconectar{
+    color: white !important;
+    background-color: red !important;
+}
+
+.footer-copyright{
+	color: #6e0300 !important;	
+}
+
+.card {
+  border-radius: 0  !important;
+}
+
+.card_principal{
+	-webkit-box-shadow: 20px 25px 5px 0px rgba(0,0,0,0.6);
+	-moz-box-shadow: 20px 25px 5px 0px rgba(0,0,0,0.6);
+	box-shadow: 20px 25px 5px 0px rgba(0,0,0,0.6);
+	color: #6e0300 !important;
+}
+ .card_principal div.card-footer,.card_principal div.card-header{
+	 background-color:#e7e5df !important;
+ }
+
+.rounded-input {
+  padding:15px !important;
+  border-radius:20px !important;
+}
+
+.campos_form{
+	background-color:#e7e5df !important;
+	padding: 5px !important;
+}
+
+
+.swal2-modal {
+  background-color:  #e7e5df !important;
+  box-shadow: 20px 25px 5px 0px rgba(0,0,0,0.6) !important;  
+}
+
+.edit_form{
+	color: #393e41 !important;
+}
+
